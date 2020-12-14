@@ -1,3 +1,3 @@
-$(".button hide-button").click(function(){
-    $(".ghost-image").hide();
+$(".button hide-button").click(function() {
+  $(".ghost-image").hide();
 });
